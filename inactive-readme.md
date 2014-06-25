@@ -4,16 +4,23 @@ Tell us what your project is, what problem it solves, and why people should use 
 
 ## Getting started
 
-A quick install or process to get to a “hello world” state.
+Brief and specific installation instructions; how would someone knowledgeable get up and running with this code as quickly as possible?
 
-1. use
-2. a
-3. simple
-4. list
+## Documentation
+
+More detailed documentation, depending on the needs of the project. Could include: requirements/dependencies, a use case with code samples, options for customization, and more. Needn’t be exhaustive, but should be helpful to someone trying to figure things out.
+
+## Examples
+
+Examples of the code in action; include a note to encourage users to add their own examples.
+
+## Authors
+
+List of Vox staff who authored the code.
 
 ## Contribution guidelines
 
-This project is inactive and is not being maintained. Feel free to fork and use this project or send questions to support@voxmedia.com.
+This project is inactive and is not being maintained. Bugs, issues, and pull requests will not be readily addressed.
 
 ## Code of conduct
 

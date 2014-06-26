@@ -10,7 +10,7 @@ If you have questions about how to contribute or the code of conduct, please rea
 
 ## Code of conduct
 
-We aim to make our open source work a welcoming and harassment-free community for people of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We provide this code of conduct not because we anticipate bad behavior from our community—which, in our experience, is overwhelmingly kind and civil, but because we believe a clear code of conduct is a necessary part of building a respectful community space.
+We aim to make our open source work a welcoming and harassment-free community for people of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We provide this code of conduct not because we anticipate bad behavior from our community—which, in our experience, is overwhelmingly kind and civil—but because we believe a clear code of conduct is a necessary part of building a respectful community space.
 
 If you contribute to a Vox Media repository, you agree to:
 

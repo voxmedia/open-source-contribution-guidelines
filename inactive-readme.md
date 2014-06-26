@@ -1,6 +1,6 @@
 # Your project (inactive)
 
-Tell us what your project is, what problem it solves, and why people should use it.
+Introduce the project briefly; say what it is and what it does and why you might want to use or contribute to it.
 
 ## Getting started
 
